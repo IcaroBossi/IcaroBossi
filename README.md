@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Sou o Ícaro Bossi de Farias, tenho 25 anos, sou bacharel em Sistemas de Informação pela Universidade Presbiteriana Mackenzie e atualmente curso pós‑graduação em Full Stack Development pela FIAP.<br><br>Tenho como foco o crescimento profissional na área de Tecnologia da Informação, buscando aprendizado contínuo, trabalho em equipe e geração de resultados.</p>
+<p align="left">Sou o Ícaro Bossi de Farias, tenho 25 anos, sou bacharel em Sistemas de Informação pela Universidade Presbiteriana Mackenzie e atualmente curso pós‑graduação em Full Stack Development na FIAP.<br><br>Tenho como foco o crescimento profissional na área de Tecnologia da Informação, buscando aprendizado contínuo, trabalho em equipe e geração de resultados.</p>
 
 ###
 
